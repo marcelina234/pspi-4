@@ -19,3 +19,6 @@ Linki do projektów na zaliczenie wpisujemy w jednym wierszu według wzoru:
 1. [Orlikowska, Mariola](https://github.com/mariolaorlikowska/dom).
 1. [Lubocka, Anna](https://github.com/alubocka/przepis-na-najlepsze-ciasto-).
 1. [Stasiak, Katarzyna](https://github.com/kasiastasiak/kasia).
+1. [Bednarczyk, Jolanta](https://github.com/jabednarczyk/strona).
+
+
