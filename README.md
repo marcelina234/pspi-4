@@ -72,6 +72,8 @@ Linki do projektów na zaliczenie wpisujemy w pliku [projects.md](projects.md).
 
 4\. CSS3.
 
+- [Responsive Design](https://pl.wikipedia.org/wiki/Responsive_Web_Design)
+  - [media queries](https://developer.mozilla.org/pl/docs/Web/CSS/Media_Queries/Using_media_queries)
 - [Flexbox Froggy](http://flexboxfroggy.com/)
 - [Grid Garden](http://cssgridgarden.com/)
 - [A free visual guide to CSS](http://cssreference.io)
